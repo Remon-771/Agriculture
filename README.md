@@ -1,2 +1,2 @@
 # Agriculture
-Live :https://remon-771.github.io/Agriculture_Project/
+Live :https://agriculture-p77e.vercel.app/
